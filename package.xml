@@ -19,8 +19,10 @@
   <build_depend>geometry_msgs</build_depend>
   <build_depend>std_srvs</build_depend>
   <build_depend>tf</build_depend>
+  <build_depend>darkroom</build_depend>
   
   <run_depend>geometry_msgs</run_depend>
   <run_depend>std_srvs</run_depend>
+  <run_depend>darkroom</run_depend>
   
 </package>
